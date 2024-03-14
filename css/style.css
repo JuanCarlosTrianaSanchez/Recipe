@@ -1,4 +1,31 @@
 body {
-    background-color:  #F3E5D8;
+    background-color: #F3E5D8;
 }
+
+main {
+    max-width: 1000px;
+    margin: 25px auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 1px;
+}
+
+main div {
+  
+}
+
+img {
+    max-width: 950px;    
+    margin: 25px;
+    border-radius: 10px;
+    object-fit: cover;
+
+}   
+
+h1 {
+  font-family: "DM Serif Display";  
+  color: #6b193b;
+}
+ 
+
 
