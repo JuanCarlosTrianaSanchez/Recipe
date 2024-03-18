@@ -1,31 +1,54 @@
 body {
-    background-color: #e1c9e6;
+  background-color: #f3e5d8;
 }
 
 main {
-    max-width: 1000px;
-    margin: 25px auto;
-    background-color: white;
-    border-radius: 10px;
-    padding: 1px;
+  max-width: 1000px;
+  margin: 25px auto;
+  background-color: white;
+  border-radius: 10px;
+  padding: 1px;
 }
 
 main div {
-  
+
 }
 
-img {
-    max-width: 950px;    
-    margin: 25px;
-    border-radius: 10px;
-    object-fit: cover;
-
-}   
+main div img {
+    max-width: 948px;
+   padding: 15;
+  margin: 25px;
+  border-radius: 10px;
+  object-fit: cover;
+}
 
 h1 {
-  font-family: "DM Serif Display";  
+  font-family: "DM Serif Display";
+  color: #6b193b;
+  margin: 25px;
+}
+
+p {
+  padding: 25px;
+  font-family: "DM sans";
   color: #6b193b;
 }
- 
 
+#timer {
+  background-color: #dfaddf;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
 
+div h2 {
+  font-family: "DM Serif Display";
+  color: #6b193b;
+  margin: 5px;
+}
+
+li {
+  padding: 2px;
+  font-family: "DM sans";
+  color: #6b193b;
+}
