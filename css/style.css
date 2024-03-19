@@ -63,6 +63,7 @@ table {
   table-layout: fixed;
   border-collapse: collapse;
 }
+
 tr {
     margin-bottom: 15px;
   border-bottom: 1px solid;
